@@ -46,6 +46,13 @@ Development
 lein run -m localorder.core
 ```
 
+Deployment
+
+```
+lein uberjar
+
+```
+
 ## License
 
 Copyright © 2019 localorder
